@@ -5,7 +5,7 @@
  
  <div align="center">
 
-  ![Snake animation](https://github.com/GabrielRochaCab/GabrielRochaCab/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielRochaCab&bg_color=010e0e&color=00ff6e&line=1fd690&point=dbdbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
   
