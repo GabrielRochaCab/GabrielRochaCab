@@ -5,7 +5,7 @@
  
  <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielRochaCab&bg_color=0d0d0d&color=00bfff&line=0ed88a&point=dbdbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielRochaCab&bg_color=010409&color=00bfff&line=0ed88a&point=dbdbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
   
