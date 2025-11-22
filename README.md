@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel! 👋
 
-Sou um desenvolvedor full stack em constante evolução, apaixonado por transformar ideias em soluções digitais. Atualmente estudo e trabalho com tecnologias do ecossistema JavaScript e bancos de dados relacionais e não relacionais.
+Sou um desenvolvedor full stack em constante evolução, apaixonado por transformar ideias em soluções digitais.
 
 ---
 
