@@ -9,7 +9,7 @@ Sou acadêmico de Sistemas de Informação na UFERSA e Desenvolvedor Full Stack.
 * **Frontend:** React, TypeScript, Next.js.
 * **Backend:** Node.js, Express, NestJS.
 * **Banco de Dados:** PostgreSQL, MySQL, MongoDB.
-* **Ambiente:** Linux (Ubuntu/WSL2), Docker, Git.
+* **Ambiente:** Linux (Ubuntu/WSL2), Git.
 
 ---
 
