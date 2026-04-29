@@ -6,7 +6,10 @@ Sou acadêmico de Sistemas de Informação na UFERSA e Desenvolvedor Full Stack.
 
 ### 🚀 Tecnologias e Ferramentas
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+* **Frontend:** React, TypeScript, Next.js.
+* **Backend:** Node.js, Express, NestJS.
+* **Banco de Dados:** PostgreSQL, MySQL, MongoDB.
+* **Ambiente:** Linux (Ubuntu/WSL2), Docker, Git.
 
 ---
 
