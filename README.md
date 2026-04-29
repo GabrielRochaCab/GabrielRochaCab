@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel! 👋
+### Desenvolvedor Full-stack
 
 Sou acadêmico de Sistemas de Informação na UFERSA e Desenvolvedor Full Stack. Atuo na criação de soluções digitais completas, unindo a base teórica da universidade com a prática do mercado de tecnologia.
 
