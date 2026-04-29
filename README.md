@@ -1,28 +1,26 @@
 ### Hi there, I'm Gabriel! 👋
 
-Sou um desenvolvedor full stack em constante evolução, apaixonado por transformar ideias em soluções digitais.
+Sou acadêmico de Sistemas de Informação na UFERSA e Desenvolvedor Full Stack. Atuo na criação de soluções digitais completas, unindo a base teórica da universidade com a prática do mercado de tecnologia. 
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
+### 🚀 Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ---
 
 ### 📬 Onde me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-rocha-40a039265/
-- ✉️ Email: gbrochacabral@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-rocha-40a039265/)
+- ✉️ [Email](mailto:gbrochacabral@gmail.com)
 
 ---
 
