@@ -1,23 +1,75 @@
-### Desenvolvedor Full-stack
+<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h3 align="center">Desenvolvedor Full-stack | Estudante de Sistemas de Informação na UFERSA</h3>
 
-Sou acadêmico de Sistemas de Informação na UFERSA e Desenvolvedor Full Stack. Atuo na criação de soluções digitais completas, unindo a base teórica da universidade com a prática do mercado de tecnologia.
+<p align="center">
+Atuo na criação de soluções digitais completas, unindo a base teórica da universidade com a prática do mercado de tecnologia.
+</p>
 
----
+<br>
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-* **Frontend:** React, TypeScript, Next.js.
-* **Backend:** Node.js, Express, NestJS.
-* **Banco de Dados:** PostgreSQL, MySQL, MongoDB.
-* **Ambiente:** Linux (Ubuntu/WSL2), Git.
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
----
+<br>
 
-### 📬 Onde me encontrar
+## 📌 Projetos em Destaque
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-rocha-40a039265/)
-- ✉️ [Email](mailto:gbrochacabral@gmail.com)
+<!-- Troque os links e descrições abaixo pelos seus projetos reais -->
 
----
+### 🔹 [Nome do Projeto 1](https://github.com/GabrielRochaCab/projeto-1)
+Breve descrição do que o projeto faz e qual problema resolve.
+`React` `Node.js` `PostgreSQL`
 
-*“Esforço.”* 🚀
+### 🔹 [Nome do Projeto 2](https://github.com/GabrielRochaCab/projeto-2)
+Breve descrição do que o projeto faz e qual problema resolve.
+`Next.js` `MongoDB`
+
+### 🔹 [Nome do Projeto 3](https://github.com/GabrielRochaCab/projeto-3)
+Breve descrição do que o projeto faz e qual problema resolve.
+`NestJS` `MySQL`
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielRochaCab&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRochaCab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRochaCab&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+## 📫 Onde me encontrar
+
+<p align="left">
+<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seuemail@exemplo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/GabrielRochaCab" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<br>
+
+<p align="center"><i>"O esforço de hoje é o resultado de amanhã." 🚀</i></p>
