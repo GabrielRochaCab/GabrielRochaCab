@@ -44,16 +44,13 @@ Breve descrição do que o projeto faz e qual problema resolve.
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 👨‍💻 Sobre mim
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielRochaCab&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRochaCab&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRochaCab&theme=tokyonight&hide_border=true" />
-</p>
+- 🎓 Estudante de Sistemas de Informação na UFERSA
+- 💻 Foco em desenvolvimento Full-stack, do banco de dados à interface
+- 🌱 Sempre aprendendo novas tecnologias e boas práticas de mercado
+- 🎯 Buscando oportunidades para aplicar teoria e prática em projetos reais
+- ⚡ Curioso, dedicado e movido por desafios
 
 <br>
 
