@@ -26,24 +26,6 @@ Atuo na criação de soluções digitais completas, unindo a base teórica da un
 
 <br>
 
-## 📌 Projetos em Destaque
-
-<!-- Troque os links e descrições abaixo pelos seus projetos reais -->
-
-### 🔹 [Nome do Projeto 1](https://github.com/GabrielRochaCab/projeto-1)
-Breve descrição do que o projeto faz e qual problema resolve.
-`React` `Node.js` `PostgreSQL`
-
-### 🔹 [Nome do Projeto 2](https://github.com/GabrielRochaCab/projeto-2)
-Breve descrição do que o projeto faz e qual problema resolve.
-`Next.js` `MongoDB`
-
-### 🔹 [Nome do Projeto 3](https://github.com/GabrielRochaCab/projeto-3)
-Breve descrição do que o projeto faz e qual problema resolve.
-`NestJS` `MySQL`
-
-<br>
-
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Sistemas de Informação na UFERSA
