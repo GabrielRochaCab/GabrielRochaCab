@@ -32,7 +32,7 @@ Atuo na criação de soluções digitais completas, unindo a base teórica da un
 - 💻 Foco em desenvolvimento Full-stack, do banco de dados à interface
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas de mercado
 - 🎯 Buscando oportunidades para aplicar teoria e prática em projetos reais
-- ⚡ Curioso, dedicado e movido por desafios
+- ⚡ Curioso e dedicado
 
 <br>
 
@@ -52,4 +52,3 @@ Atuo na criação de soluções digitais completas, unindo a base teórica da un
 
 <br>
 
-<p align="center"><i>"O esforço de hoje é o resultado de amanhã." 🚀</i></p>
